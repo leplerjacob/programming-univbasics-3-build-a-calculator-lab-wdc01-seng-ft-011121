@@ -21,3 +21,14 @@ end
 def square_root(num)
   Math.sqrt(num)
 end
+
+num1 = 5
+num2 = 6
+
+addition(num1, num2)
+subtraction(num1, num2)
+division(num1, num2)
+multiplication(num1, num2)
+modulo(num1, num2)
+square_root(num1)
+
